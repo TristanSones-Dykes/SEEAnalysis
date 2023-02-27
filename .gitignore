@@ -1,3 +1,6 @@
 /dat
 /ignore
 /.ipynb_checkpoints
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+
